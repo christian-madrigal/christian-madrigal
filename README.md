@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47na7329aeu5m8el4gowe4k08rkc55x0vivddtlgsj&rid=giphy.gif&ct=g)=400x250
+![image](https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47na7329aeu5m8el4gowe4k08rkc55x0vivddtlgsj&rid=giphy.gif&ct=g)
 
 
 <!--
