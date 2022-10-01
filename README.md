@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![image](https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47na7329aeu5m8el4gowe4k08rkc55x0vivddtlgsj&rid=giphy.gif&ct=g)
+
+
+
+<a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47na7329aeu5m8el4gowe4k08rkc55x0vivddtlgsj&rid=giphy.gif&ct=g)" height="100" /></a>
 
 
 <!--
@@ -8,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-
+![image](https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47na7329aeu5m8el4gowe4k08rkc55x0vivddtlgsj&rid=giphy.gif&ct=g)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
